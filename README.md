@@ -1,7 +1,13 @@
-1. Откройте терминал в удобной для вас папке
-2. Выполните следующие команды:
-    2.1 git clone https://github.com/novecento050795/tic-tac-toe.git
-    2.2 В папке tic-tac-toe выполните команду npm install
-3. Запуск приложения:
-    3.1 В папке tic-tac-toe выполните команду npm start
-    3.2 Что бы открыть приложение в браузере перейдите по ссылке http://localhost:3000
+#tic-tac-toe
+
+##Instalation Guide
+``bash
+    git clone https://github.com/novecento050795/tic-tac-toe.git
+    cd tic-tac-toe
+    npm install
+``
+##Run app
+``bash
+    npm start
+``
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
